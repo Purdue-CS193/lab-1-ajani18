@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## Abhishek's first CS193 Lab
+# Abhishek's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,6 +18,12 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+# Favorite Things About Purdue
+
+- The People are nice
+- Good food 
+- Nice weather 
 
 - Bulleted
 - List
